@@ -2,3 +2,4 @@ output
 ExerciseMIR/data
 libfmp/__pycache__
 libfmp/b/__pycache__
+__pycache__/
